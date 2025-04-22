@@ -70,17 +70,19 @@ Developed by: GAYATHIRI D
 
 Register212224220028
 
-![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/1c27f3a1-9bcc-435e-9f94-879bf15afc8e)
-**Logic symbol & Truthtable**
-![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/baefb5a6-b1d2-4364-b33a-f4a5a56983ed)
 
- ![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/3cf5e6cd-e4f2-4432-b70e-b4e6854d9524)
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-12-02 223149](https://github.com/user-attachments/assets/fcae9a02-659a-408f-aa6b-202367addce7)
+
+
  
 **RTL realization Output**
+![Screenshot 2024-12-02 222130](https://github.com/user-attachments/assets/c64405f2-a2d6-46b3-8dce-611e62ad1350)
 
 **RTL**
+![Screenshot 2024-12-02 220939](https://github.com/user-attachments/assets/310a1540-0a82-4209-bd4b-ca06469b79bc)
 
-![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/40e11fef-2a83-425c-8cf6-ae160c264554)
 
 **Result:**
 
